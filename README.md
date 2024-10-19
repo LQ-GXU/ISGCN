@@ -11,6 +11,7 @@ Data Sources
 The ISGCN model has been evaluated on several real-world traffic datasets, including PeMS04, PeMS07, PeMS08, and PeMS-BAY, covering traffic flow and speed data across various regions and time intervals. These datasets provide comprehensive coverage of traffic conditions and serve as benchmarks to illustrate the model's effectiveness.
 
 Citation
+
 If you find our work helpful, please cite our paper:
 
 @article{li2024spatial,
